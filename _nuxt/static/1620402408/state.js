@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FMiracle_interview_nuxt.git\u002F_nuxt\u002Fstatic\u002F1620402408",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002FMiracle_interview_nuxt.git\u002F",assetsPath:"\u002FMiracle_interview_nuxt.git\u002F_nuxt\u002F",cdnURL:a}}}}(null));
